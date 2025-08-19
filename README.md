@@ -2,8 +2,10 @@
 
 How to Run 
 ######
-Commands
+----------Commands------------
 ######
 flutter clean
+######
 flutter pub get
+######
 flutter run
